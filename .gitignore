@@ -1,0 +1,5 @@
+# 배포 파일은 GitHub Releases 에 첨부합니다 (저장소에는 올리지 않음)
+*.exe
+*.zip
+Thumbs.db
+desktop.ini
